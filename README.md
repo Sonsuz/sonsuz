@@ -15,7 +15,7 @@ Here is a cup of coffee for you:
 
 <hr>
 
-Here is table just for fun:
+Here is table created with Markdown just for fun:
 | Item    | Price |
 | -------- | ------- |
 | Latte  | $1.5    |
